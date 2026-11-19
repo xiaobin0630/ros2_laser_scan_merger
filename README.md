@@ -59,3 +59,7 @@ All parameters similar for the first and second lidar data. The `{x}` marks mean
 | laser{x}R | 255 | set color to the resulted pointclound2 data (0-255) |
 | pointCloudTopic | cloud_in | pointcloud2 published topic (adjusted to `pointcloud_to_laserscan` package) |
 | pointCloutFrameId | laser | frame id of the pointcloud2 published data |
+
+
+
+
